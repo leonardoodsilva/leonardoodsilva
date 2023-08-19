@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @leonardoodsilva
-- 👀 I’m interested in graduate at ADS
-- 🌱 I’m currently learning how to comunicate my ideas
-- 💞️ I’m looking to collaborate on work
-- 📫 How to reach me leonardo.osilva@sptech.school
+- 👋 Olá, eu sou @leonardoodsilva
+- 👀 Estou visando me graduar em ADS
+- 🌱 Atualmente, prático a habilidade de expor minhas ideias
+- 💞️ Procuro me desenvolver no âmbito acadêmico e do trabalho
+
 
 <!---
 leonardoodsilva/leonardoodsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
