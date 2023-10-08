@@ -2,6 +2,8 @@
 - 👀 Estou visando me graduar em ADS
 - 🌱 Atualmente, prático a habilidade de expor minhas ideias
 - 💞️ Procuro me desenvolver no âmbito acadêmico e do trabalho
+- 📖 Desenvolvo minha habilidade de escrita
+- 💻 Gosto de programar
 
 ## Bem-vindo(a) ao perfil do leonardoodsilva 😁
 
